@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# env fiels
+*.env
+
+# poetry
+poetry.lock
+
 # C extensions
 *.so
 
